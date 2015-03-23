@@ -1,0 +1,8 @@
+
+------------------- TRACEBACK -------------------------
+Module "Shape" Message   8: file ".\err.c   " line 645
+Module "FSrc " Message  -1: file "..\fsrc\fsrc.c" line 2076
+Module "Appl " Message  -1: file "..\appl\appl.c" line 1842
+Module "Err  " Message  -1: file ".\err.c   " line 2009
+-------------------------------------------------------
+FATAL ERROR     Failure during error recovery
